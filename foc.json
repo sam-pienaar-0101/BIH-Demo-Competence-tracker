@@ -1,0 +1,621 @@
+[
+    {
+        "id": "4BSC01",
+        "name": "Bachelor of Science in Applied Mathematics and Computer Science.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 60,
+            "English": 50,
+            "Physical Science": 50,
+            "Information Technology": 50
+        },
+        "description": "Unizulu’s 4BSC01 course is a three-year Bachelor of Science double major undergraduate program in Applied Mathematics and Computer Science offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC02",
+        "name": "Bachelor of Science in Applied Mathematics and Hydrology.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 60,
+            "English": 50,
+            "Physical Science": 50
+        },
+        "description": "Unizulu’s 4BSC02 course is a three-year Bachelor of Science double major undergraduate program in Applied Mathematics and Hydrology offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC03",
+        "name": "Bachelor of Science in Applied Mathematics and Mathematics.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 60,
+            "English": 50,
+            "Physical Science": 50,
+            "Information Technology": 50,
+            "Life Sciences": 50
+        },
+        "description": "Unizulu’s 4BSC03 course is a three-year Bachelor of Science double major undergraduate program in Applied Mathematics and Mathematics offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC04",
+        "name": "Bachelor of Science in Applied Mathematics and Physics.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 60,
+            "English": 50,
+            "Physical Science": 50
+        },
+        "description": "Unizulu’s 4BSC04 course is a three-year Bachelor of Science double major undergraduate program in Applied Mathematics and Physics offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC05",
+        "name": "Bachelor of Science in Applied Mathematics and Statistics.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 60,
+            "English": 50,
+            "Physical Science": 50,
+            "Information Technology": 50,
+            "Life Sciences": 50
+        },
+        "description": "Unizulu’s 4BSC05 course is a three-year Bachelor of Science double major undergraduate program in Applied Mathematics and Statistics offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC06",
+        "name": "Bachelor of Science in Biochemistry and Botany.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 50,
+            "English": 50,
+            "Life Sciences": 50
+        },
+        "description": "Unizulu’s 4BSC06 course is a three-year Bachelor of Science double major undergraduate program in Biochemistry and Botany offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC07",
+        "name": "Bachelor of Science in Biochemistry and Chemistry.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 60,
+            "English": 50,
+            "Physical Science": 50,
+            "Life Sciences": 50
+        },
+        "description": "Unizulu’s 4BSC07 course is a three-year Bachelor of Science double major undergraduate program in Biochemistry and Chemistry offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC08",
+        "name": "Bachelor of Science in Biochemistry and Human Movement Science.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 50,
+            "English": 50,
+            "Physical Science": 50,
+            "Life Sciences": 50
+        },
+        "description": "Unizulu’s 4BSC08 course is a three-year Bachelor of Science double major undergraduate program in Biochemistry and Human Movement Science offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC09",
+        "name": "Bachelor of Science in Biochemistry and Microbiology.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 60,
+            "English": 50,
+            "Life Sciences": 50
+        },
+        "description": "Unizulu’s 4BSC09 course is a three-year Bachelor of Science double major undergraduate program in Biochemistry and Microbiology offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC10",
+        "name": "Bachelor of Science in Biochemistry and Zoology.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 60,
+            "English": 50,
+            "Life Sciences": 50
+        },
+        "description": "Unizulu’s 4BSC10 course is a three-year Bachelor of Science double major undergraduate program in Biochemistry and Zoology offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC11",
+        "name": "Bachelor of Science in Botany and Geography.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 50,
+            "English": 50,
+            "Geography": 50,
+            "Life Sciences": 50
+        },
+        "description": "Unizulu’s 4BSC11 course is a three-year Bachelor of Science double major undergraduate program in  Botany and Geography offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC12",
+        "name": "Bachelor of Science in Botany and Hydrology.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 50,
+            "English": 50,
+            "Physical Science": 50,
+            "Life Sciences": 50
+        },
+        "description": "Unizulu’s 4BSC12 course is a three-year Bachelor of Science double major undergraduate program in Botany and Hydrology offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC13",
+        "name": "Bachelor of Science in Botany and Microbiology.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 50,
+            "English": 50,
+            "Life Sciences": 50
+        },
+        "description": "Unizulu’s 4BSC13 course is a three-year Bachelor of Science double major undergraduate program in Botany and Microbiology offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC14",
+        "name": "Bachelor of Science in Botany and Zoology.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 50,
+            "English": 50,
+            "Life Sciences": 50
+        },
+        "description": "Unizulu’s 4BSC14 course is a three-year Bachelor of Science double major undergraduate program in Botany and Zoology offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC15",
+        "name": "Bachelor of Science in Chemistry and Computer Science.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 60,
+            "English": 50,
+            "Physical Science": 50
+        },
+        "description": "Unizulu’s 4BSC15 course is a three-year Bachelor of Science double major undergraduate program in Chemistry and Computer Science offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC16",
+        "name": "Bachelor of Science in Chemistry and Hydrology.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 60,
+            "English": 50,
+            "Physical Science": 50
+        },
+        "description": "Unizulu’s 4BSC16 course is a three-year Bachelor of Science double major undergraduate program in Chemistry and Hydrology offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC17",
+        "name": "Bachelor of Science in Chemistry and Mathematics.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 60,
+            "English": 50,
+            "Physical Science": 50
+        },
+        "description": "Unizulu’s 4BSC17 course is a three-year Bachelor of Science double major undergraduate program in Chemistry and Mathematics offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC18",
+        "name": "Bachelor of Science in Chemistry and Physics.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 60,
+            "English": 50,
+            "Physical Science": 50
+        },
+        "description": "Unizulu’s 4BSC18 course is a three-year Bachelor of Science double major undergraduate program in Chemistry and Physics offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC19",
+        "name": "Bachelor of Science in Chemistry and Zoology.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 60,
+            "English": 50,
+            "Physical Science": 50,
+            "Life Sciences": 50
+        },
+        "description": "Unizulu’s 4BSC19 course is a three-year Bachelor of Science double major undergraduate program in Chemistry and Zoology offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC20",
+        "name": "Bachelor of Science in Computer Science and Hydrology.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 60,
+            "English": 50,
+            "Physical Science": 50
+        },
+        "description": "Unizulu’s 4BSC20 course is a three-year Bachelor of Science double major undergraduate program in Computer Science and Hydrology offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC21",
+        "name": "Bachelor of Science in Computer Science and Mathematics.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 60,
+            "English": 50,
+            "Physical Science": 50,
+            "Information Technology": 50
+        },
+        "description": "Unizulu’s 4BSC21 course is a three-year Bachelor of Science double major undergraduate program in Computer Science and Mathematics offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC22",
+        "name": "Bachelor of Science in Computer Science and Physics.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 60,
+            "English": 50,
+            "Physical Science": 50
+        },
+        "description": "Unizulu’s 4BSC22 course is a three-year Bachelor of Science double major undergraduate program in Computer Science and Physics offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC23",
+        "name": "Bachelor of Science in Computer Science and Statistics.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 60,
+            "English": 50,
+            "Physical Science": 50,
+            "Information Technology": 50
+        },
+        "description": "Unizulu’s 4BSC23 course is a three-year Bachelor of Science double major undergraduate program in Computer Science and Statistics offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC24",
+        "name": "Bachelor of Science in Geography and Hydrology.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 60,
+            "English": 50,
+            "Physical Science": 50,
+            "Geography": 50
+        },
+        "description": "Unizulu’s 4BSC24 course is a three-year Bachelor of Science double major undergraduate program in Geography and Hydrology offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC25",
+        "name": "Bachelor of Science in Geography and Physics.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 60,
+            "English": 50,
+            "Physical Science": 50,
+            "Geography": 50
+        },
+        "description": "Unizulu’s 4BSC25 course is a three-year Bachelor of Science double major undergraduate program in Geography and Physics offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC26",
+        "name": "Bachelor of Science in Geography and Statistics.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 60,
+            "English": 50,
+            "Physical Science": 50,
+            "Geography": 50
+        },
+        "description": "Unizulu’s 4BSC26 course is a three-year Bachelor of Science double major undergraduate program in Geography and Statistics offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC27",
+        "name": "Bachelor of Science in Geography and Zoology.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 50,
+            "English": 50,
+            "Geography": 50
+        },
+        "description": "Unizulu’s 4BSC27 course is a three-year Bachelor of Science double major undergraduate program in Geography and Zoology offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC28",
+        "name": "Bachelor of Science in Human Movement Science and Physics.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 60,
+            "English": 50,
+            "Physical Science": 50,
+            "Geography": 50
+        },
+        "description": "Unizulu’s 4BSC28 course is a three-year Bachelor of Science double major undergraduate program in Human Movement Science and Physics offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC29",
+        "name": "Bachelor of Science in Human Movement Science and Zoology.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 50,
+            "English": 50,
+            "Physical Science": 50,
+            "Life Sciences": 50
+        },
+        "description": "Unizulu’s 4BSC29 course is a three-year Bachelor of Science double major undergraduate program in Human Movement Science and Zoology offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC30",
+        "name": "Bachelor of Science in Hydrology and Microbiology.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 50,
+            "English": 50,
+            "Physical Science": 50,
+            "Life Sciences": 50
+        },
+        "description": "Unizulu’s 4BSC30 course is a three-year Bachelor of Science double major undergraduate program in Hydrology and Microbiology offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC31",
+        "name": "Bachelor of Science in Hydrology and Physics.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 60,
+            "English": 50,
+            "Physical Science": 50
+        },
+        "description": "Unizulu’s 4BSC31 course is a three-year Bachelor of Science double major undergraduate program in Hydrology and Physics offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC32",
+        "name": "Bachelor of Science in Hydrology and Statistics.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 60,
+            "English": 50,
+            "Physical Science": 50
+        },
+        "description": "Unizulu’s 4BSC32 course is a three-year Bachelor of Science double major undergraduate program in Hydrology and Statistics offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC33",
+        "name": "Bachelor of Science in Hydrology and Zoology.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 50,
+            "English": 50,
+            "Physical Science": 50,
+            "Life Sciences": 50
+        },
+        "description": "Unizulu’s 4BSC33 course is a three-year Bachelor of Science double major undergraduate program in Hydrology and Zoology offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC34",
+        "name": "Bachelor of Science in Mathematics and Physics.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 60,
+            "English": 50,
+            "Physical Science": 50
+        },
+        "description": "Unizulu’s 4BSC34 course is a three-year Bachelor of Science double major undergraduate program in Mathematics and Physics offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC35",
+        "name": "Bachelor of Science in Mathematics and Statistics.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 60,
+            "English": 50,
+            "Physical Science": 50,
+            "Information Technology":50,
+            "Life Sciences": 50
+        },
+        "description": "Unizulu’s 4BSC35 course is a three-year Bachelor of Science double major undergraduate program in Mathematics and Statistics offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC36",
+        "name": "Bachelor of Science in Microbiology and Biology.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 50,
+            "English": 50,
+            "Physical Science": 50
+        },
+        "description": "Unizulu’s 4BSC36 course is a three-year Bachelor of Science double major undergraduate program in Microbiology and Biology offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC37",
+        "name": "Bachelor of Science in Microbiology and Human Movement Science.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 50,
+            "English": 50,
+            "Physical Science": 50,
+            "Life Sciences": 50
+        },
+        "description": "Unizulu’s 4BSC37 course is a three-year Bachelor of Science double major undergraduate program in Microbiology and Human Movement Science offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC50",
+        "name": "Bachelor of Science in Animal Science.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 50,
+            "English": 50,
+            "Life Sciences": 50,
+            "Agriculture": 50
+        },
+        "description": "Unizulu’s 4BSC50 course is a four-year Bachelor of Science undergraduate program in Animal Science offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC51",
+        "name": "Bachelor of Science in Agribusiness.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 50,
+            "English": 50,
+            "Physical Science": 50
+        },
+        "description": "Unizulu’s 4BSC51 course is a four-year Bachelor of Science undergraduate program in Agribusiness offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC52",
+        "name": "Bachelor of Science in Plant Science.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "Mathematics": 50,
+            "English": 50,
+            "Life Sciences": 50,
+            "Agriculture": 50
+        },
+        "description": "Unizulu’s 4BSC52 course is a four-year Bachelor of Science undergraduate program in Plant Science offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC55",
+        "name": "Bachelor of Consumer Science (Extension and Rural development)",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "English": 50,
+            "Life Sciences": 50
+        },
+        "description": "Unizulu’s 4BSC55 course is a four-year Bachelor of Consumer Science undergraduate program in Extension and Rural development offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC56",
+        "name": "Bachelor of Consumer Science (Hospitality and Tourism).",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "English": 50
+        },
+        "description": "Unizulu’s 4BSC56 course is a four-year Bachelor of Consumer Science undergraduate program in Hospitality and Tourism offered by the University of Zululand."
+      },
+
+    {
+        "id": "4BSC60",
+        "name": "Bachelor of Nursing.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "English": 50,
+            "Life Sciences": 50
+        },
+        "description": "Unizulu’s 4BSC60 course is a four-year Bachelor of Nursing undergraduate program offered by the University of Zululand."
+      },
+    
+    {
+        "id": "4BSC60",
+        "name": "Bachelor of Engineering in Electrical Engineering.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "English": 50,
+            "Mathematics": 60,
+            "Physical Science": 60
+        },
+        "description": "Unizulu’s 4BSC60 course is a four-year Bachelor of Engineering in Electrical Engineering undergraduate program offered by the University of Zululand."
+    },
+    
+     {
+        "id": "4BSC60",
+        "name": "Bachelor of Engineering in Electrical Engineering and Computer Engineering.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "English": 50,
+            "Mathematics": 60,
+            "Physical Science": 60 
+        },
+        "description": "Unizulu’s 4BSC60 course is a four-year Bachelor of Engineering in Electrical Engineering and Computer Engineering undergraduate program offered by the University of Zululand."
+    },
+    
+     {
+        "id": "4BSC60",
+        "name": "Bachelor of Engineering in Mechanical Engineering.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "English": 50,
+            "Mathematics": 60,
+            "Physical Science": 60 
+        },
+        "description": "Unizulu’s 4BSC60 course is a four-year Bachelor of Engineering in Mechanical Engineering undergraduate program offered by the University of Zululand."
+    },
+    
+     {
+        "id": "4BSC60",
+        "name": "Bachelor of Engineering in Mechatronic Engineering.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "English": 50,
+            "Mathematics": 60,
+            "Physical Science": 60 
+        },
+        "description": "Unizulu’s 4BSC60 course is a four-year Bachelor of Engineering in Mechatronic Engineering undergraduate program offered by the University of Zululand."
+    },
+    
+     {
+        "id": "4BSC60",
+        "name": "Bachelor of Science Foundation.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "English": 40,
+            "Mathematics": 40,
+            "Physical Science": 30,
+            "Agricultural Science": 40,
+            "Life Sciences": 40
+        },
+        "description": "Unizulu’s 4BSC60 course is a four-year Bachelor of Science Foundation undergraduate program offered by the University of Zululand."
+    },
+    
+     {
+        "id": "4BSC60",
+        "name": "Diploma in Hospitality Management.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "English": 50 
+        },
+        "description": "Unizulu’s 4BSC60 course is a three-year Diploma in Hospitality Management undergraduate program offered by the University of Zululand."
+    },
+    
+     {
+        "id": "4BSC60",
+        "name": "Diploma Sports and Exercise Technology.",
+        "faculty": "Faculty of Science, Agriculture and Engineering.",
+        "requirements":{
+            "English": 40
+        },
+        "description": "Unizulu’s 4BSC60 course is a three-year Diploma Sport and Exercise Technology undergraduate program offered by the University of Zululand."
+    }
+    
+
+]
