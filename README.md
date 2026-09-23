@@ -1,3 +1,3 @@
 # Git in VS Code
 
-Lets make some changes
+Lets make some changes!
